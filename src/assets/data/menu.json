@@ -1,0 +1,14 @@
+[
+  {
+    "nombre": "Dashboard",
+    "redirect": ""
+  },
+  {
+    "nombre": "Estadocuenta",
+    "redirect": ""
+  },
+  {
+    "nombre": "Estadopedido",
+    "redirect": ""
+  }
+]
